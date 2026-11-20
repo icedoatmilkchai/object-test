@@ -150,9 +150,9 @@ $_luminance-list: .0008 .001 .0011 .0013 .0015 .0017 .002 .0022 .0025 .0027 .003
         $active-color: color-contrast($active-background)
     ) {
 
-    color: bold;
-    background-color: !default;
-    border-color: !default;
+    color: $color;
+    background-color: $background;
+    border-color: $border;
 
     &:hover {
         color: $hover-color;
