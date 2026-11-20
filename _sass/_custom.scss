@@ -73,10 +73,3 @@
     --bs-card-box-shadow: var(--bs-box-shadow-sm);
     box-shadow: var(--bs-card-box-shadow);
 }
-
-/* Navbar (colors are usually set in _data/theme.yml navbar-background / navbar-color, but spacing/behavior tweaks can go here):
-.navbar {
-    --bs-navbar-padding-y: 0.75rem;
-    --bs-navbar-brand-font-size: 1.5rem;
-}
-
