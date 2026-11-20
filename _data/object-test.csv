@@ -1,18 +1,21 @@
-objectid,filename,title,creator,subject,format
-coll001,billiardchalk.png,billiard chalk,alexa bakos peters,stolen,image/png
-coll002,bunnygun.png,rabbit cookie cutter and toy gun,alexa bakos peters,antiques; rabbits,image/png
-coll003,ceramicbunny.png,ceramic rabbit figurine,alexa bakos peters,antiques; rabbits,image/png
-coll004,clippers.png,nail clippers,alexa bakos peters,chinatown; hellokitty,image/png
-coll005,fakemiffy.png,cathy,alexa bakos peters,chinatown; hellokitty,image/png
-coll006,horsemagnet.png,horse magnet,alexa bakos peters,horses,image/png
-coll007,jesuscube.png,rubix cube keychain,alexa bakos peters,religious,image/png
-coll008,kewpiebaby.png,kewpie baby keychain,alexa bakos peters,ebay,image/png
-coll010,pencilcase.png,pencil case,alexa bakos peters,personal,image/png
-coll011,rabbitbuckle.png,belt buckle,alexa bakos peters,antiques; rabbits,image/png
-coll012,rabmagnet.png,magnet,alexa bakos peters,antiques; rabbits,image/png
-coll013,rapidograph.png,rapidograph,alexa bakos peters,antiques,image/png
-coll014,stanthony.png,st. anthony pendant,alexa bakos peters,religious,image/png
-coll015,underberg.png,empty bottle,alexa bakos peters,personal,image/png
-coll016,woodhorse.png,wood horse ornament,alexa bakos peters,antiques; horses,image/png
-coll017,yakulttop.png,yakult top,alexa bakos peters,personal,image/png
-coll018,lauralighter.png,laura palmer lighter,alexa bakos peters,personal,image/png
+objectid,filename,title,creator,subject,format,date,description,location,latitude,longitude
+coll001,billiardchalk.png,billiard chalk,alexa bakos peters,dive bar,image/png,2025,chalk from ike's pool table on my 21st birthday,"charleston, il",39.48473562,-88.1758716
+coll002,bunnygun.png,rabbit cookie cutter and toy gun,alexa bakos peters,antiques; rabbits,image/png,2026,rabbit cookie cutter and toy gun from main street antique mall,"moscow, id",46.73584698,-117.0013955
+coll003,ceramicbunny.png,ceramic rabbit figurine,alexa bakos peters,antiques; rabbits,image/png,2025,ceramic bunny from open eye consignment,"palouse, wa",46.91025401,-117.0748829
+coll004,clippers.png,nail clippers,alexa bakos peters,chinatown; hellokitty,image/png,2021,hello kitty nail clippers from chinatown,"chicago, il",41.85448772,-87.63312272
+coll005,fakemiffy.png,cathy,alexa bakos peters,chinatown; hellokitty,image/png,2024,figurine of retired hello kitty character 'cathy',"chicago, il",41.85448772,-87.63312272
+coll006,horsemagnet.png,horse magnet,alexa bakos peters,horses,image/png,2025,horse magnet purchased from moscow food co op the first week i moved here,"moscow, id",46.73090249,-117.0004983
+coll007,jesuscube.png,rubix cube keychain,alexa bakos peters,religious,image/png,2025,rubix cube from 5 below,"mattoon, il",39.48192813,-88.3260747
+coll008,kewpiebaby.png,kewpie baby keychain,alexa bakos peters,ebay,image/png,2023,rose o'neill era kewpie keychain from ebay,unknown,,
+coll009,pencilcase.png,pencil case,alexa bakos peters,personal,image/png,2025,pencil case from boo radley's in spokane wa,"spokane, wa",47.66004475,-117.420963
+coll010,rabbitbuckle.png,belt buckle,alexa bakos peters,antiques; rabbits,image/png,2024,rabbit belt buckle from b & j antiques in sullivan illinois,"sullivan, il",39.55798317,-88.61023089
+coll011,rabmagnet.png,magnet,alexa bakos peters,antiques; rabbits,image/png,2025,iron magnet gifted to me by a friend from unspecified japanese grocery store that was going out of business,"boston, ma",,
+coll012,rapidograph.png,rapidograph,alexa bakos peters,antiques,image/png,2022,piece of rapidograph and cross pendant obtained through unknown origins,unknown,,
+coll013,stanthony.png,st. anthony pocket shrine,alexa bakos peters,religious,image/png,2022,st. anthony pocket shrine from newman catholic center,"charleston, il",39.4764416,-88.17551305
+coll014,underberg.png,empty bottle,alexa bakos peters,personal,image/png,2025,herbal bitter gifted to me at moscowberfest ,"moscow, id",46.73181305,-117.001868
+coll015,woodhorse.png,wood horse ornament,alexa bakos peters,antiques; horses,image/png,2025,wooden horse from catholic charities in mattoon il,"mattoon, il",39.49046855,-88.41462855
+coll016,yakulttop.png,yakult top,alexa bakos peters,personal,image/png,2026,yakult packaging from winco,"moscow, id",46.73483061,-117.025486
+coll017,lauralighter.png,laura palmer lighter,alexa bakos peters,personal,image/png,2026,laura palmer lighter from boo radley's in spokane wa,"spokane, wa",47.66004475,-117.420963
+coll018,graduation.png,graduation precious moments figurine,alexa bakos peters,precious moments; antiques,image/png,2025,"precious moments graduation figurine gifted to me, found in terre haute indiana","terre haute, in",,
+coll019,preciousmomentscross.png,precious moments cross,alexa bakos peters,precious moments; antiques,image/png,2021,"precious moments cross from goodwill in new lenox, il","new lenox, il",41.51414571,-87.95648114
+coll020,woodhouse.png,wooden house,alexa bakos peters,antiques,image/png,2025,"wooden house from open eye consignment in palouse, wa","palouse, wa",46.91025401,-117.0748829
